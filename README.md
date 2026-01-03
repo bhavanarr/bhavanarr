@@ -1,5 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Bhavana R R  
 
+🎓 Computer Science Engineering Student  
+🌱 Currently learning **Git, Java & Python**  
+💻 Interested in software development and problem solving  
+
+---
+
+## 🔧 Skills
+- Python (Beginner)
+- Java (Beginner)
+- Git & GitHub
+
+---
+
+## 🎯 Goals
+- Build real-world projects  
+- Improve coding skills  
+- Participate in hackathons  
+
+📍 India  
+
+⭐ Always learning, always improving!
+⭐Still learning, making mistakes, and improving every day 🙂
 <!--
 **bhavanarr/bhavanarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
